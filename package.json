@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@middy/core": "^4.6.5",
+    "@middy/http-json-body-parser": "^4.6.5",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.0",
+    "dotenv": "^16.3.1",
+    "middy": "^0.36.0",
+    "pg": "^8.11.3"
+  },
+  "devDependencies": {
+    "@types/pg": "^8.10.5"
+  }
+}
